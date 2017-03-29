@@ -7,7 +7,7 @@ T = zeros(1,60000);
 Deg = zeros(1,60000);
 F1 = zeros(1,60000);
 F2 = zeros(1,60000);
-
+456
 123
 
 T = xlsread(filename,sheet,'A:A');
